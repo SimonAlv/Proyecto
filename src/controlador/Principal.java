@@ -9,8 +9,6 @@ import vista.Vista;
 
 import java.io.*;
 
-import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
-
 public class Principal {
 
     private static Vista vista;
